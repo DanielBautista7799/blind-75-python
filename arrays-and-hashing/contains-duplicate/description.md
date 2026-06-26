@@ -4,11 +4,11 @@
 
 - **Category:** Arrays & Hashing
 - **Difficulty:** Easy
-- **Status:** Not Started
+- **Status:** Complete
 - **Original problem:** [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)
 - **NeetCode reference:** [Contains Duplicate](https://neetcode.io/problems/duplicate-integer)
-- **Started:** Not started
-- **Completed:** Not completed
+- **Started:** 6/26
+- **Completed:** 6/26
 
 ## Problem Summary
 
@@ -31,14 +31,3 @@ the complete statement and constraints.
 - Negative numbers.
 - Repeated zeroes.
 
-## Completion Checklist
-
-- [ ] Independent attempt completed
-- [ ] Brute-force idea documented
-- [ ] Optimized approach documented
-- [ ] Final solution implemented
-- [ ] Tests enabled and passing
-- [ ] Time complexity documented
-- [ ] Space complexity documented
-- [ ] Time spent recorded
-- [ ] Reusable lesson recorded

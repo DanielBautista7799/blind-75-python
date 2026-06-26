@@ -16,10 +16,10 @@ complexity, the mistakes I made, and the amount of focused time I spent learning
 <!-- PROGRESS_START -->
 | Metric | Current value |
 |---|---:|
-| Completed | 0 / 75 |
+| Completed | 1 / 75 |
 | In progress | 0 |
-| Total focused time | 0 min |
-| Completion | 0.0% |
+| Total focused time | 10 min |
+| Completion | 1.3% |
 <!-- PROGRESS_END -->
 
 Detailed tracking is available in [PROGRESS.md](PROGRESS.md).

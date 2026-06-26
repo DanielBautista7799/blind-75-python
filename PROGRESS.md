@@ -2,7 +2,7 @@
 
 - **Started:** 2026-06-25
 - **Completed:** 1 / 75
-- **Total focused time:** 10 min
+- **Total focused time:** 30 min
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
@@ -11,7 +11,7 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
 | [Contains Duplicate](arrays-and-hashing/contains-duplicate/) | Completed | 10 min | 2026-06-26 | 2026-06-26 |
-| Valid Anagram | Not started | 0 min | — | — |
+| Valid Anagram | In progress | 20 min | 2026-06-26 | — |
 | Two Sum | Not started | 0 min | — | — |
 | Group Anagrams | Not started | 0 min | — | — |
 | Top K Frequent Elements | Not started | 0 min | — | — |

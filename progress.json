@@ -18,9 +18,9 @@
       "slug": "valid-anagram",
       "category": "Arrays & Hashing",
       "category_slug": "arrays-and-hashing",
-      "status": "not_started",
-      "time_minutes": 0,
-      "started_on": null,
+      "status": "in_progress",
+      "time_minutes": 20,
+      "started_on": "2026-06-26",
       "completed_on": null,
       "folder": null,
       "notes": ""

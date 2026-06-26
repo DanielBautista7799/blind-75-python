@@ -17,8 +17,8 @@ complexity, the mistakes I made, and the amount of focused time I spent learning
 | Metric | Current value |
 |---|---:|
 | Completed | 1 / 75 |
-| In progress | 0 |
-| Total focused time | 10 min |
+| In progress | 1 |
+| Total focused time | 30 min |
 | Completion | 1.3% |
 <!-- PROGRESS_END -->
 

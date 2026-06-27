@@ -4,7 +4,7 @@
 
 - **Category:** Arrays & Hashing
 - **Difficulty:** Easy
-- **Status:** In Progress
+- **Status:** Complete
 - **Original problem:** [LeetCode 242](https://leetcode.com/problems/valid-anagram/)
 - **NeetCode reference:** [Valid Anagram](https://neetcode.io/problems/is-anagram)
 - **Started:** 6/26

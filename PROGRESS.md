@@ -1,18 +1,18 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 1 / 75
-- **Total focused time:** 30 min
+- **Completed:** 2 / 75
+- **Total focused time:** 55 min
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
-## Arrays & Hashing — 1/8
+## Arrays & Hashing — 2/8
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
 | [Contains Duplicate](arrays-and-hashing/contains-duplicate/) | Completed | 10 min | 2026-06-26 | 2026-06-26 |
 | Valid Anagram | In progress | 20 min | 2026-06-26 | — |
-| Two Sum | Not started | 0 min | — | — |
+| Two Sum | Completed | 25 min | 2026-06-26 | 2026-06-26 |
 | Group Anagrams | Not started | 0 min | — | — |
 | Top K Frequent Elements | Not started | 0 min | — | — |
 | Encode and Decode Strings | Not started | 0 min | — | — |

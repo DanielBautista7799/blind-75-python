@@ -1,12 +1,12 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 4 / 75
-- **Total focused time:** 2h 20m
+- **Completed:** 5 / 75
+- **Total focused time:** 3h 20m
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
-## Arrays & Hashing — 4/8
+## Arrays & Hashing — 5/8
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
@@ -15,7 +15,7 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Two Sum | Completed | 25 min | 2026-06-26 | 2026-06-26 |
 | [Group Anagrams](arrays-and-hashing/group-anagrams/) | Completed | 40 min | 2026-06-27 | 2026-06-27 |
 | Top K Frequent Elements | Completed | 45 min | 2026-06-27 | 2026-06-27 |
-| Encode and Decode Strings | Not started | 0 min | — | — |
+| Encode and Decode Strings | Completed | 1h | 2026-06-29 | 2026-06-29 |
 | Product of Array Except Self | Not started | 0 min | — | — |
 | Longest Consecutive Sequence | Not started | 0 min | — | — |
 

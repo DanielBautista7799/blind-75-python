@@ -45,14 +45,12 @@ def test_less_than_three_numbers() -> None:
 
     assert solution.threeSum([0, 1]) == []
 
-
 def test_duplicate_heavy_case() -> None:
     solution = solution_module.Solution()
 
     result = solution.threeSum([-2, 0, 0, 0, 2, 2])
 
-    assert normalize(result) == normalize([[-2, 0, 2]])
-
+    assert normalize(result) == normalize([[-2, 0, 2], [0, 0, 0]])
 
 def test_multiple_triplets() -> None:
     solution = solution_module.Solution()

@@ -7,8 +7,8 @@
 - **Status:** Completed
 - **Original problem:** [LeetCode 128](https://leetcode.com/problems/longest-consecutive-sequence/)
 - **NeetCode reference:** [Longest Consecutive Sequence](https://neetcode.io/problems/longest-consecutive-sequence)
-- **Started:** 6/27
-- **Completed:** 6/27
+- **Started:** 6/29
+- **Completed:** 6/29
 
 ## Problem Summary
 

@@ -49,7 +49,7 @@ def test_single_character() -> None:
 def test_space_character() -> None:
     solution = solution_module.Solution()
 
-    assert solution.lengthOfLongestSubstring("a b c a") == 5
+    assert solution.lengthOfLongestSubstring("a b c a") == 3
 
 
 def test_no_repeats() -> None:

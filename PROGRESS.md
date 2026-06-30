@@ -1,8 +1,8 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 9 / 75
-- **Total focused time:** 6h 5m
+- **Completed:** 10 / 75
+- **Total focused time:** 6h 25m
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
@@ -19,13 +19,13 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Product of Array Except Self | Completed | 50 min | 2026-06-29 | 2026-06-29 |
 | Longest Consecutive Sequence | Completed | 35 min | 2026-06-29 | 2026-06-29 |
 
-## Two Pointers — 2/3
+## Two Pointers — 3/3
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
 | Valid Palindrome | Completed | 20 min | 2026-06-29 | 2026-06-29 |
 | 3Sum | Completed | 1h | 2026-06-30 | 2026-06-30 |
-| Container With Most Water | Not started | 0 min | — | — |
+| Container With Most Water | Completed | 20 min | 2026-06-30 | 2026-06-30 |
 
 ## Sliding Window — 0/4
 

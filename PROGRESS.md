@@ -1,12 +1,12 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 6 / 75
-- **Total focused time:** 4h 10m
+- **Completed:** 7 / 75
+- **Total focused time:** 4h 45m
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
-## Arrays & Hashing — 6/8
+## Arrays & Hashing — 7/8
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
@@ -17,7 +17,7 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Top K Frequent Elements | Completed | 45 min | 2026-06-27 | 2026-06-27 |
 | Encode and Decode Strings | Completed | 1h | 2026-06-29 | 2026-06-29 |
 | Product of Array Except Self | Completed | 50 min | 2026-06-29 | 2026-06-29 |
-| Longest Consecutive Sequence | Not started | 0 min | — | — |
+| Longest Consecutive Sequence | Completed | 35 min | 2026-06-29 | 2026-06-29 |
 
 ## Two Pointers — 0/3
 

@@ -1,8 +1,8 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 12 / 75
-- **Total focused time:** 7h
+- **Completed:** 13 / 75
+- **Total focused time:** 8h
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
@@ -27,13 +27,13 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | 3Sum | Completed | 1h | 2026-06-30 | 2026-06-30 |
 | Container With Most Water | Completed | 20 min | 2026-06-30 | 2026-06-30 |
 
-## Sliding Window — 2/4
+## Sliding Window — 3/4
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
 | Best Time to Buy and Sell Stock | Completed | 15 min | 2026-06-30 | 2026-06-30 |
 | Longest Substring Without Repeating Characters | Completed | 20 min | 2026-06-30 | 2026-06-30 |
-| Longest Repeating Character Replacement | Not started | 0 min | — | — |
+| Longest Repeating Character Replacement | Completed | 1h | 2026-07-02 | 2026-07-02 |
 | Minimum Window Substring | Not started | 0 min | — | — |
 
 ## Stack — 0/1

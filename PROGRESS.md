@@ -1,8 +1,8 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 15 / 75
-- **Total focused time:** 9h 10m
+- **Completed:** 16 / 75
+- **Total focused time:** 9h 24m
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
@@ -42,11 +42,11 @@ Time includes independent attempts, study, implementation, testing, documentatio
 |---|---|---:|---|---|
 | Valid Parentheses | Completed | 20 min | 2026-07-28 | 2026-07-28 |
 
-## Binary Search — 0/2
+## Binary Search — 1/2
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
-| Find Minimum in Rotated Sorted Array | Not started | 0 min | — | — |
+| Find Minimum in Rotated Sorted Array | Completed | 14 min | 2026-07-28 | 2026-07-28 |
 | Search in Rotated Sorted Array | Not started | 0 min | — | — |
 
 ## Linked List — 0/6

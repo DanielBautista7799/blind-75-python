@@ -1,8 +1,8 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 14 / 75
-- **Total focused time:** 8h 50m
+- **Completed:** 15 / 75
+- **Total focused time:** 9h 10m
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
@@ -36,11 +36,11 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Longest Repeating Character Replacement | Completed | 1h | 2026-07-02 | 2026-07-02 |
 | Minimum Window Substring | Completed | 50 min | 2026-07-03 | 2026-07-03 |
 
-## Stack — 0/1
+## Stack — 1/1
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
-| Valid Parentheses | Not started | 0 min | — | — |
+| Valid Parentheses | Completed | 20 min | 2026-07-28 | 2026-07-28 |
 
 ## Binary Search — 0/2
 

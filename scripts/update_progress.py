@@ -66,22 +66,26 @@ def build_progress_document(data: dict) -> str:
     for category in categories:
         category_problems = [p for p in problems if p["category"] == category]
         category_completed = sum(p["status"] == "completed" for p in category_problems)
-        lines.extend([
-            f"## {category} — {category_completed}/{len(category_problems)}",
-            "",
-            "| Problem | Status | Focused time | Started | Completed |",
-            "|---|---|---:|---|---|",
-        ])
+        lines.extend(
+            [
+                f"## {category} — {category_completed}/{len(category_problems)}",
+                "",
+                "| Problem | Status | Focused time | Started | Completed |",
+                "|---|---|---:|---|---|",
+            ]
+        )
         for problem in category_problems:
             lines.append(
                 "| "
-                + " | ".join([
-                    problem_display(problem),
-                    STATUS_LABELS[problem["status"]],
-                    format_minutes(int(problem.get("time_minutes", 0))),
-                    problem.get("started_on") or "—",
-                    problem.get("completed_on") or "—",
-                ])
+                + " | ".join(
+                    [
+                        problem_display(problem),
+                        STATUS_LABELS[problem["status"]],
+                        format_minutes(int(problem.get("time_minutes", 0))),
+                        problem.get("started_on") or "—",
+                        problem.get("completed_on") or "—",
+                    ]
+                )
                 + " |"
             )
         lines.append("")
@@ -96,16 +100,18 @@ def update_readme(data: dict) -> None:
     total_minutes = sum(int(problem.get("time_minutes", 0)) for problem in problems)
     completion = (completed / len(problems)) * 100
 
-    block = "\n".join([
-        "<!-- PROGRESS_START -->",
-        "| Metric | Current value |",
-        "|---|---:|",
-        f"| Completed | {completed} / {len(problems)} |",
-        f"| In progress | {in_progress} |",
-        f"| Total focused time | {format_minutes(total_minutes)} |",
-        f"| Completion | {completion:.1f}% |",
-        "<!-- PROGRESS_END -->",
-    ])
+    block = "\n".join(
+        [
+            "<!-- PROGRESS_START -->",
+            "| Metric | Current value |",
+            "|---|---:|",
+            f"| Completed | {completed} / {len(problems)} |",
+            f"| In progress | {in_progress} |",
+            f"| Total focused time | {format_minutes(total_minutes)} |",
+            f"| Completion | {completion:.1f}% |",
+            "<!-- PROGRESS_END -->",
+        ]
+    )
 
     readme = README_FILE.read_text(encoding="utf-8")
     start_marker = "<!-- PROGRESS_START -->"

@@ -24,7 +24,7 @@ class Solution:
 
             while have == need:
                 if right - left + 1 < bestlen:
-                    best = s[left:right + 1]
+                    best = s[left : right + 1]
                     bestlen = right - left + 1
 
                 leftchar = s[left]

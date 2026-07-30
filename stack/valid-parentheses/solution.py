@@ -1,8 +1,6 @@
-from typing import List
-
 class Solution:
     def isValid(self, s: str) -> bool:
-        dictionary = {"{":"}", "(":")", "[":"]"}
+        dictionary = {"{": "}", "(": ")", "[": "]"}
         stack = []
         for char in s:
             if char in dictionary:

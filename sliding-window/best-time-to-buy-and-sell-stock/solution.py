@@ -1,10 +1,8 @@
 """Solution for LeetCode 121: Best Time to Buy and Sell Stock."""
 
-from typing import List
-
 
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit(self, prices: list[int]) -> int:
         profit = 0
         currentlow = prices[0]
 

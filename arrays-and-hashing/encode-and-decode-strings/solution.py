@@ -1,11 +1,8 @@
 """Solution for LeetCode 271: Encode and Decode Strings."""
 
-from typing import List
-
 
 class Solution:
-
-    def encode(self, strs: List[str]) -> str:
+    def encode(self, strs: list[str]) -> str:
         s = ""
 
         for word in strs:
@@ -14,7 +11,7 @@ class Solution:
 
         return s
 
-    def decode(self, s: str) -> List[str]:
+    def decode(self, s: str) -> list[str]:
         array = []
 
         while len(s) > 0:
@@ -26,7 +23,7 @@ class Solution:
                 i += 1
 
             countint = int(count)
-            s = s[i + 1:]
+            s = s[i + 1 :]
             word = s[:countint]
             array.append(word)
             s = s[countint:]

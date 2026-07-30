@@ -1,10 +1,8 @@
 """Solution for LeetCode 153: Find Minimum in Rotated Sorted Array."""
 
-from typing import List
-
 
 class Solution:
-    def findMin(self, nums: List[int]) -> int:
+    def findMin(self, nums: list[int]) -> int:
         i = 0
         j = len(nums) - 1
 

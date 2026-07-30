@@ -49,10 +49,7 @@ def main() -> None:
 
     PROGRESS_FILE.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
     subprocess.run([sys.executable, str(ROOT / "scripts" / "update_progress.py")], check=True)
-    print(
-        f"{problem['title']}: {problem['status']}, "
-        f"{problem['time_minutes']} total minute(s)."
-    )
+    print(f"{problem['title']}: {problem['status']}, {problem['time_minutes']} total minute(s).")
 
 
 if __name__ == "__main__":

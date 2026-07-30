@@ -3,6 +3,7 @@
 
 class Solution:
     """LeetCode-compatible wrapper."""
+
     def hasDuplicate(self, nums: list[int]) -> bool:
         hash_map = {}
         for i in range(len(nums)):
@@ -10,7 +11,4 @@ class Solution:
                 return True
             else:
                 hash_map[nums[i]] = nums[i]
-        return False        
-        
-
-
+        return False

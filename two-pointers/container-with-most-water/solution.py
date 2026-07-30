@@ -1,10 +1,8 @@
 """Solution for LeetCode 11: Container With Most Water."""
 
-from typing import List
-
 
 class Solution:
-    def maxArea(self, heights: List[int]) -> int:
+    def maxArea(self, heights: list[int]) -> int:
         maxA = 0
         i = 0
         j = len(heights) - 1

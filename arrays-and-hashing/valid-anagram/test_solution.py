@@ -3,7 +3,6 @@
 import importlib.util
 from pathlib import Path
 
-
 MODULE_PATH = Path(__file__).with_name("solution.py")
 SPEC = importlib.util.spec_from_file_location(
     "valid_anagram_solution",

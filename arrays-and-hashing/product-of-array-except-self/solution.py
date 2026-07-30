@@ -1,10 +1,8 @@
 """Solution for LeetCode 238: Product of Array Except Self."""
 
-from typing import List
-
 
 class Solution:
-    def productExceptSelf(self, nums: List[int]) -> List[int]:
+    def productExceptSelf(self, nums: list[int]) -> list[int]:
         output = [1] * len(nums)
 
         left = 1

@@ -33,6 +33,7 @@ Detailed tracking is available in [PROGRESS.md](PROGRESS.md).
 - Testing against normal cases, edge cases, and failure cases.
 - Written technical communication instead of code-only submissions.
 - Consistent reflection on mistakes, tradeoffs, and reusable lessons.
+- Reasoning skills reflected on problems of the same type.
 
 ## Topics Covered
 

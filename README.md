@@ -6,7 +6,7 @@ This repository is not only a collection of accepted answers. Each completed pro
 how I approached it, the tradeoffs I considered, the final Python solution, its time and space
 complexity, the mistakes I made, and the amount of focused time I spent learning it.
 
-> **Status:** Active learning project  
+> **Status:** Active learning project
 > **Language:** Python 3.11+  
 > **Started:** June 25, 2026  
 > **Problem set:** [NeetCode Blind 75](https://neetcode.io/practice/practice/blind75)

@@ -53,7 +53,7 @@ Time includes independent attempts, study, implementation, testing, documentatio
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
-| Reverse Linked List | Not started | 0 min | — | — |
+| Reverse Linked List | In progress | 0 min | 2026-08-03 | — |
 | Merge Two Sorted Lists | Not started | 0 min | — | — |
 | Reorder List | Not started | 0 min | — | — |
 | Remove Nth Node From End of List | Not started | 0 min | — | — |

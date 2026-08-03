@@ -222,9 +222,9 @@
       "slug": "reverse-linked-list",
       "category": "Linked List",
       "category_slug": "linked-list",
-      "status": "not_started",
+      "status": "in_progress",
       "time_minutes": 0,
-      "started_on": null,
+      "started_on": "2026-08-03",
       "completed_on": null,
       "folder": null,
       "notes": ""

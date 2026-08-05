@@ -222,10 +222,10 @@
       "slug": "reverse-linked-list",
       "category": "Linked List",
       "category_slug": "linked-list",
-      "status": "in_progress",
-      "time_minutes": 0,
+      "status": "completed",
+      "time_minutes": 25,
       "started_on": "2026-08-03",
-      "completed_on": null,
+      "completed_on": "2026-08-05",
       "folder": null,
       "notes": ""
     },

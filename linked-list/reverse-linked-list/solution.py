@@ -9,4 +9,13 @@ class ListNode:
 
 class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-        raise NotImplementedError("Complete your Reverse Linked List solution.")
+        current = head
+        prev = None
+
+        while current is not None:
+            next_node = current.next
+            current.next = prev
+            prev = current
+            current = next_node
+
+        return prev

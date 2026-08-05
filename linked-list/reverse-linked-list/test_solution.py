@@ -3,10 +3,6 @@
 import importlib.util
 from pathlib import Path
 
-import pytest
-
-pytestmark = pytest.mark.skip(reason="Enable after implementing Reverse Linked List.")
-
 MODULE_PATH = Path(__file__).with_name("solution.py")
 SPEC = importlib.util.spec_from_file_location("reverse_linked_list_solution", MODULE_PATH)
 

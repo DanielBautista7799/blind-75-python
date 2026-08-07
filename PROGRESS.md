@@ -54,7 +54,7 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
 | Reverse Linked List | Completed | 25 min | 2026-08-03 | 2026-08-05 |
-| Merge Two Sorted Lists | Not started | 0 min | — | — |
+| Merge Two Sorted Lists | In progress | 0 min | 2026-08-06 | — |
 | Reorder List | Not started | 0 min | — | — |
 | Remove Nth Node From End of List | Not started | 0 min | — | — |
 | Linked List Cycle | Not started | 0 min | — | — |

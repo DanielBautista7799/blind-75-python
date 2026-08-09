@@ -1,9 +1,7 @@
 # Merge Two Sorted Lists — Notes
 
 ## First Thoughts
-
-Fill this out after your first attempt.
-
+Linked Lists involve focusing on pointers by setting the pointers to each other in an alternating way we can accomplish a merge for the length the list for the range of the initial one.
 ## Independent Attempt
 
 - **Attempt time:** 0 minutes

@@ -234,10 +234,10 @@
       "slug": "merge-two-sorted-lists",
       "category": "Linked List",
       "category_slug": "linked-list",
-      "status": "in_progress",
-      "time_minutes": 0,
+      "status": "completed",
+      "time_minutes": 30,
       "started_on": "2026-08-06",
-      "completed_on": null,
+      "completed_on": "2026-08-09",
       "folder": null,
       "notes": ""
     },

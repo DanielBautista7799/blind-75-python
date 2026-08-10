@@ -1,8 +1,8 @@
 # Blind 75 Progress
 
 - **Started:** 2026-06-25
-- **Completed:** 18 / 75
-- **Total focused time:** 10h 19m
+- **Completed:** 19 / 75
+- **Total focused time:** 10h 49m
 
 Time includes independent attempts, study, implementation, testing, documentation, and review.
 
@@ -49,12 +49,12 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Find Minimum in Rotated Sorted Array | Completed | 14 min | 2026-07-28 | 2026-07-28 |
 | Search in Rotated Sorted Array | Completed | 30 min | 2026-08-02 | 2026-08-02 |
 
-## Linked List — 1/6
+## Linked List — 2/6
 
 | Problem | Status | Focused time | Started | Completed |
 |---|---|---:|---|---|
 | Reverse Linked List | Completed | 25 min | 2026-08-03 | 2026-08-05 |
-| Merge Two Sorted Lists | In progress | 0 min | 2026-08-06 | — |
+| Merge Two Sorted Lists | Completed | 30 min | 2026-08-06 | 2026-08-09 |
 | Reorder List | Not started | 0 min | — | — |
 | Remove Nth Node From End of List | Not started | 0 min | — | — |
 | Linked List Cycle | Not started | 0 min | — | — |

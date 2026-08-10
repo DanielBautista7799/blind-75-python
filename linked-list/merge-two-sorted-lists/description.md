@@ -4,20 +4,20 @@
 
 - **Category:** Linked List
 - **Difficulty:** Easy
-- **Status:** In Progress
+- **Status:** Completed
 - **Original problem:** [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/)
 - **NeetCode reference:** [Merge Two Sorted Lists](https://neetcode.io/problems/merge-two-sorted-linked-lists)
 - **Started:** 8/7
-- **Completed:** Not completed
+- **Completed:** 8/9
 
 ## Problem Summary
 
-Given the heads of two sorted linked lists, merge them into one sorted linked list and return the head.
+Given the heads of two sorted linked lists, merge them into one sorted linked list and return the head of the merged list.
 
 ## Inputs and Expected Output
 
 - Input: two sorted linked lists.
-- Output: one merged sorted linked list.
+- Output: one sorted linked list.
 
 ## Edge Cases to Consider
 

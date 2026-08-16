@@ -56,7 +56,7 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Reverse Linked List | Completed | 25 min | 2026-08-03 | 2026-08-05 |
 | Merge Two Sorted Lists | Completed | 30 min | 2026-08-06 | 2026-08-09 |
 | Reorder List | Not started | 0 min | — | — |
-| Remove Nth Node From End of List | Not started | 0 min | — | — |
+| Remove Nth Node From End of List | In progress | 0 min | 2026-08-15 | — |
 | Linked List Cycle | Not started | 0 min | — | — |
 | Merge K Sorted Lists | Not started | 0 min | — | — |
 

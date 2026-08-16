@@ -258,10 +258,10 @@
       "slug": "remove-nth-node-from-end-of-list",
       "category": "Linked List",
       "category_slug": "linked-list",
-      "status": "in_progress",
-      "time_minutes": 0,
+      "status": "completed",
+      "time_minutes": 15,
       "started_on": "2026-08-15",
-      "completed_on": null,
+      "completed_on": "2026-08-16",
       "folder": null,
       "notes": ""
     },

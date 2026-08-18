@@ -282,9 +282,9 @@
       "slug": "merge-k-sorted-lists",
       "category": "Linked List",
       "category_slug": "linked-list",
-      "status": "not_started",
+      "status": "in_progress",
       "time_minutes": 0,
-      "started_on": null,
+      "started_on": "2026-08-17",
       "completed_on": null,
       "folder": null,
       "notes": ""

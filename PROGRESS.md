@@ -58,7 +58,7 @@ Time includes independent attempts, study, implementation, testing, documentatio
 | Reorder List | Not started | 0 min | — | — |
 | Remove Nth Node From End of List | Completed | 15 min | 2026-08-15 | 2026-08-16 |
 | Linked List Cycle | Not started | 0 min | — | — |
-| Merge K Sorted Lists | Not started | 0 min | — | — |
+| Merge K Sorted Lists | In progress | 0 min | 2026-08-17 | — |
 
 ## Trees — 0/11
 

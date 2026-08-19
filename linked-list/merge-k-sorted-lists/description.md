@@ -7,7 +7,7 @@
 - **Status:** In Progress
 - **Original problem:** LeetCode 23 - Merge k Sorted Lists
 - **NeetCode reference:** Merge K Sorted Lists
-- **Started:** 8/17
+- **Started:** 8/19
 - **Completed:** Not completed
 
 ## Problem Summary
